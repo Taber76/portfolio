@@ -1,79 +1,21 @@
-![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
-
-### Live - https://react-portfolio-template.netlify.app/
-
-### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
-
-### Tutorials
-
-Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
-
-Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
-
-### Features - 
-
-- Modern Stack (Next.js + TailwindCSS)
-- Minimal Design
-- Easy To Browse
-- Easy To Customize your details With GUI
-- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
-- Dark Mode
+# 💫 About Me:
+🌱 Currently working on personal projects.<br>💼 Seeking job opportunities as a programmer.<br>🚀 Focused on learning backend development and soon diving into machine learning.<br>🔭 Always excited to learn new technologies and explore emerging areas of development.<br>
 
 
-### Sections
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tab.ber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tabarebermudez) 
 
-- Header
-- Work
-- Services
-- About
-- Contact
-- Markdown Blog
+# 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,nestjs,express,graphql,electron,postgres,mongodb,mysql,firebase,sqlite,prisma,sequelize,py,flask,raspberrypi,aws,vercel,gcp,html,css,bootstrap,react,redux,vite,git,github,postman,vscode&perline=5)](https://skillicons.dev)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Taber76&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Taber76&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Taber76&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Taber76&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### How To Use
+---
+[![](https://visitcount.itsvg.in/api?id=Taber76&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- Clone this repo
-- run `yarn`
-- `yarn dev`
-
-
-### How To Deploy - 
-
-- There are many ways to Deploy this repo.
-- here we are gonna use netlify
-- Login into netlify with github
-- after login select the forked repo or the repo you want to deploy
-- after selecting netlify will automatially deploy your website.
-
-Quickes way to deploy this repo - 
-
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
-
-
-### How To Contribute - 
-
-I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
-
-
-### Tech Stack Used - 
-- Next.js
-- TailwindCSS
-
-
-### Thanks
-
-If you liked this portfolio template, don't forget to give it a ⭐.
-
-## Awesome Contributors
-[@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
-
-## Supporting
-Many hours of hard work have gone into this project. Your support will be very appreciated!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
