@@ -1,0 +1,170 @@
+{
+  "name": "Tabaré",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Tabaré Bermúdez",
+  "headerTaglineThree": "backend devloper (in development)",
+  "headerTaglineFour": " based in Marindia, Uruguay.",
+  "showBlog": false,
+  "darkMode": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/Taber76"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/tabarebermudez/"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:tabarebermudez@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Home banking - practice project (SET-2023)",
+      "description": "Full backend development (API Restful) with: NodeJS, Express and PostgreSQL.",
+      "links": [
+        {
+          "name": "Desing",
+          "url": "https://www.behance.net/gallery/176276731/Banco-Saint-Patrick"
+        },
+        {
+          "name": "Api DOC",
+          "url": "https://documenter.getpostman.com/view/24685479/2s9Xxztsfn"
+        },
+        {
+          "name": "Code",
+          "url": "https://github.com/BrayanGalindez/IDEAS/tree/Backend"
+        }
+      ],
+      "imageSrc": "/images/banking.jpg",
+      "url": "https://bancosaintpatrick.netlify.app"
+    },
+    {
+      "id": "2",
+      "title": "Autonumous UAV - personal project (on progress)",
+      "description": "Autonomous UAV for firefighting, using the following technologies: Python|Flask, NodeJS|NestJS, ReactJS|Vite and MongoDB.",
+      "imageSrc": "/images/uav.jpg",
+      "links": [
+        {
+          "name": "On board server (Python|Flask)",
+          "url": "https://github.com/Taber76/UAV-Raspberry-Python"
+        },
+        {
+          "name": "Cloud server (NodeJS|NestJS)",
+          "url": "https://github.com/Taber76/UAV-Cloud-Server"
+        },
+        {
+          "name": "Web UI (ReactJS|Vite)",
+          "url": "https://github.com/Taber76/UAV/tree/dev/clientReact"
+        }
+      ],
+      "url": "https://github.com/Taber76/UAV"
+    },
+    {
+      "id": "3",
+      "title": "Attendance - personal project (on progress)",
+      "description": "Attendance record for schools, using the following technologies: NodeJS, Typescript, Express and PostgreSQL.",
+      "imageSrc": "/images/asistencias.jpg",
+      "links": [
+        {
+          "name": "Desing",
+          "url": "https://www.figma.com/file/xn4Y6Y9luTgyPBOFRGjl1J/Asistencias?type=design&node-id=0-1&mode=design&t=GOzCZLOKKxaySGdC-0"
+        },
+        {
+          "name": "Api DOC",
+          "url": "https://documenter.getpostman.com/view/24685479/2s9YC5zYqr"
+        },
+        {
+          "name": "Code",
+          "url": "https://github.com/sync-ideas/project-backend"
+        }
+      ],
+      "url": "https://github.com/sync-ideas/project-backend"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Art Direction",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    }
+  ],
+  "aboutpara": "Developer with a background in industrial engineering, seeking to add work experience in the field of computing. My professional career has developed in the area of ​​maintenance within the pharmaceutical and food industry, where I have participated in projects to redesign productive equipment, integrating sensors, actuators, PLCs and artificial vision systems that have increased the efficiency and quality of the production process. \n\nThis led me to enter the world of programming and find a true passion there. I started self-taught with Python and artificial intelligence libraries. Later, I expanded my knowledge by completing Fullstack Development courses. I am currently deepening my knowledge in backend development (NodeJS, Typescript, SQL and non-SQL databases, etc.), participating in collaborative projects where, in addition to enriching myself personally and technically, interacting with people from all over Latin America with the most diverse backgrounds, I have strengthened my knowledge of Git and agile methodologies.\n\nI would love the opportunity to be part of an innovative organization where I can apply my knowledge to create new solutions or improve existing ones. I like to work as a team, contribute creative ideas and be available to collaborate at any time. My personality leads me to always be open to exchange and criticism that allows me to grow both professionally and personally. I am always willing to learn and contribute to the success of my team and organization.",
+  "resume": {
+    "tagline": "👋  I'm a junior backend devloper.",
+    "description": "I have been doing several internship projects and a development for a startup.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "September 2023 - Present",
+        "type": "Part Time",
+        "position": "Backend Developer",
+        "bullets": [
+          "Worked on the backend of a web application",
+          "Design and implementation of the architecture based on GCP, dockers and microservices.",
+          "Development of an API Restful with NodeJS, Typescript, Express and PostgreSQL.",
+          "Development of an HLS video server",
+          "Development of an video editor server (Python)"
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "October 2003 - January 2023",
+        "type": "Full Time",
+        "position": "Industrial engineering technician in different industries",
+        "bullets": [
+          "Planning, coordinating, and executing preventive and corrective maintenance tasks.",
+          "Studying and implementing improvement projects for production and service equipment.",
+          "Maintaining machinery such as packaging machines, mills, accumulators, compressors, etc.",
+          "Installation and maintenance of pneumatic and electrical power systems, including electrovalves, actuators, motor control and protection, and electrical line installation.",
+          "Managing maintenance management software, including receiving requests, generating and assigning work orders, and tracking preventive and corrective orders."
+        ]
+      }
+    ],
+    "education": {
+      "universityName": "University UDELAR",
+      "universityDate": "1997-2005",
+      "universityPara": "Mechanical industrial engineering"
+    },
+    "course": {
+      "courseName": "Coderhouse",
+      "courseDate": "2022-2023",
+      "coursePara": "Fullstack Development (NodeJS, Typescript, ReactJS, React-Native.)"
+    },
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Python"
+    ],
+    "frameworks": [
+      "React",
+      "React-Native",
+      "Typescript",
+      "NodeJs"
+    ],
+    "others": [
+      "Git",
+      "Docker",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "GCP",
+      "AWS",
+      "Postman",
+      "Jira"
+    ]
+  },
+  "showResume": true
+}
