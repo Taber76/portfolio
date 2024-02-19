@@ -86,6 +86,27 @@
         }
       ],
       "url": "https://github.com/sync-ideas/project-backend"
+    },
+    {
+      "id": "4",
+      "title": "Gestor - personal project (on progress)",
+      "description": "Social network to find paperwork management services, using the following technologies: NodeJS, Typescript, MongoDB and Redis.",
+      "imageSrc": "/images/gestor.jpg",
+      "links": [
+        {
+          "name": "Desing",
+          "url": "https://www.figma.com/file/qICx1HFUODYVkzCgdonWG9/Gestapp?type=design&node-id=0-1&mode=design&t=2Zo4pQiOiStKQnjv-0"
+        },
+        {
+          "name": "Api DOC",
+          "url": "https://documenter.getpostman.com/view/24685479/2sA2r556FN"
+        },
+        {
+          "name": "Code",
+          "url": "https://github.com/AgustinBraco/gestapp/tree/backend-dev/backend"
+        }
+      ],
+      "url": "https://github.com/AgustinBraco/gestapp/tree/backend-dev/backend"
     }
   ],
   "services": [
