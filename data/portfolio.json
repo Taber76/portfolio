@@ -107,6 +107,19 @@
         }
       ],
       "url": "https://github.com/AgustinBraco/gestapp/tree/backend-dev/backend"
+    },
+    {
+      "id": "5",
+      "title": "WhatsApp - audio to text",
+      "description": "Audio to sumamarized text, using the following technologies: NodeJS, GCP|Speech to text and ChatGPT.",
+      "imageSrc": "/images/whatsapp.jpg",
+      "links": [
+        {
+          "name": "Code",
+          "url": "https://github.com/Taber76/Whatsapp-audio-text"
+        }
+      ],
+      "url": "https://github.com/Taber76/Whatsapp-audio-text"
     }
   ],
   "services": [
