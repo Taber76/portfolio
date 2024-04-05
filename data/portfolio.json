@@ -26,6 +26,19 @@
   "projects": [
     {
       "id": "1",
+      "title": "Store",
+      "description": "Storage and distribution of products. Generation of purchase orders and electronic billing.",
+      "imageSrc": "/images/store.png",
+      "url": "https://distribuidora-front.vercel.app/",
+      "links": [
+        {
+          "name": "Sample",
+          "url": "https://distribuidora-front.vercel.app/"
+        }
+      ]
+    },
+    {
+      "id": "2",
       "title": "Home banking - practice project (SET-2023)",
       "description": "Full backend development (API Restful) with: NodeJS, Express and PostgreSQL.",
       "links": [
@@ -46,7 +59,7 @@
       "url": "https://bancosaintpatrick.netlify.app"
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "Autonumous UAV - personal project (on progress)",
       "description": "Autonomous UAV for firefighting, using the following technologies: Python|Flask, NodeJS|NestJS, ReactJS|Vite and MongoDB.",
       "imageSrc": "/images/uav.jpg",
@@ -67,7 +80,7 @@
       "url": "https://github.com/Taber76/UAV"
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "Attendance - personal project (on progress)",
       "description": "Attendance record for schools, using the following technologies: NodeJS, Typescript, Express and PostgreSQL.",
       "imageSrc": "/images/asistencias.jpg",
@@ -88,7 +101,7 @@
       "url": "https://github.com/sync-ideas/project-backend"
     },
     {
-      "id": "4",
+      "id": "5",
       "title": "Gestor - personal project (on progress)",
       "description": "Social network to find paperwork management services, using the following technologies: NodeJS, Typescript, MongoDB and Redis.",
       "imageSrc": "/images/gestor.jpg",
@@ -109,7 +122,7 @@
       "url": "https://github.com/AgustinBraco/gestapp/tree/backend-dev/backend"
     },
     {
-      "id": "5",
+      "id": "6",
       "title": "WhatsApp - audio to text",
       "description": "Audio to sumamarized text, using the following technologies: NodeJS, GCP|Speech to text and ChatGPT.",
       "imageSrc": "/images/whatsapp.jpg",
