@@ -29,11 +29,11 @@
       "title": "Store",
       "description": "Storage and distribution of products. Generation of purchase orders and electronic billing.",
       "imageSrc": "/images/store.png",
-      "url": "https://distribuidora-front.vercel.app/",
+      "url": "https://distribuidora-pwa.vercel.app/",
       "links": [
         {
           "name": "Sample",
-          "url": "https://distribuidora-front.vercel.app/"
+          "url": "https://distribuidora-pwa.vercel.app/"
         }
       ]
     },
