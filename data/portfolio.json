@@ -34,6 +34,14 @@
         {
           "name": "Sample",
           "url": "https://distribuidora-pwa.vercel.app/"
+        },
+        {
+          "name": "Frontend",
+          "url": "https://github.com/Taber76/PWA-Test"
+        },
+        {
+          "name": "Backend",
+          "url": "https://github.com/Taber76/Distribuidora/tree/main/backend"
         }
       ]
     },
